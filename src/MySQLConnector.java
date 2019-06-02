@@ -22,7 +22,7 @@ public class MySQLConnector {
                     con.close();
                 } catch (SQLException e) {
                     System.out.println("MySQLのクローズに失敗しました。");
-                    System.out.print("d");
+                   
                 }
             }
         }
